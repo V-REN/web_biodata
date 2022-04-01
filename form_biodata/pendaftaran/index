@@ -1,0 +1,23 @@
+<body>
+
+<ul>
+  <center><li><a class="active" href="halaman_awal/login.html"><button>Home</button></a></li>
+  <li><a href="halaman_awal/pendaftaran.html"><button >Pendaftaran</button></a></li>
+  <li><a href="#contact"><button>Status pengguna</button></a></li>
+  <li><a href="halaman_awal/login.html"><button>Login</button></a></li>
+  </center>
+</ul>
+
+<style type="text/css">
+  li {
+    display: inline;
+  }
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+</style>
+</body>
